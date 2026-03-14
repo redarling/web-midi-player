@@ -25,7 +25,6 @@ Opens http://localhost:3000 in your browser.
 ## Tech Stack
 
 - React 18 + TypeScript
-- Web Audio via [jzz-synth-tiny](https://github.com/niclasku/jzz-synth-tiny) (General MIDI synthesizer)
 - CRACO (Create React App Configuration Override)
 
 ## Architecture
